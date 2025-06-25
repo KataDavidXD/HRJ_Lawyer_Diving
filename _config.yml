@@ -7,15 +7,15 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "en-US"
+locale                   : "en"
 site_theme               : "default"
-title                    : "Your Name / Site Title"
+title                    : "惠如瑾 | HRJ | Lawyer & Diving Professional"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
+name                     : &name "惠如瑾 | HRJ"
+description              : &description "惠如瑾，律师与潜水专业人士 | HRJ, Lawyer & Diving Professional"
+url                      : https://www.hrj.lawyer.diving.com
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "hrj-lawyer/hrj-lawyer-diving"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -23,13 +23,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
-  uri              : # URL
-  email            : "none@example.org" 
+  name             : "惠如瑾 | HRJ"
+  pronouns         : "她/She"  
+  bio              : "惠如瑾，律师与潜水专业人士。专注于法律服务与水下探险。\nHRJ, a lawyer and diving professional. Passionate about legal service and underwater exploration."
+  location         : "中国 | China"
+  employer         : "自营 | Self-employed"
+  uri              : "https://www.hrj.lawyer.diving.com"
+  email            : "hrj@lawyerdiving.com" 
 
   # Academic websites
   academia         : # URL
@@ -60,7 +60,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "huirujin"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
@@ -70,11 +70,11 @@ author:
   tumblr           : # Username
   twitter          : # Username for X / Twitter
   vine             : # Username
-  weibo            : # Username
+  weibo            : "惠如瑾律师"
   wikipedia        : # Username
   xing             : # Username
   youtube          : # Username
-  zhihu            : # Username
+  zhihu            : "惠如瑾"
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
