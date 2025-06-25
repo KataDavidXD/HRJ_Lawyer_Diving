@@ -22,7 +22,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "惠如瑾 | HRJ"
   pronouns         : "她/She"  
   bio              : "惠如瑾，律师与潜水专业人士。专注于法律服务与水下探险。\nHRJ, a lawyer and diving professional. Passionate about legal service and underwater exploration."
