@@ -13,9 +13,9 @@ title                    : "惠如瑾 | HRJ | Lawyer & Diving Professional"
 title_separator          : "-"
 name                     : &name "惠如瑾 | HRJ"
 description              : &description "惠如瑾，律师与潜水专业人士 | HRJ, Lawyer & Diving Professional"
-url                      : https://www.hrj.lawyer.diving.com
+url                      : https://katadavidxd.github.io/HRJ_Lawyer_Diving.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "hrj-lawyer/hrj-lawyer-diving"
+repository               : "https://katadavidxd.github.io/HRJ_Lawyer_Diving"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -28,7 +28,7 @@ author:
   bio              : "惠如瑾，律师与潜水专业人士。专注于法律服务与水下探险。\nHRJ, a lawyer and diving professional. Passionate about legal service and underwater exploration."
   location         : "中国 | China"
   employer         : "自营 | Self-employed"
-  uri              : "https://www.hrj.lawyer.diving.com"
+  uri              : "https://katadavidxd.github.io/HRJ_Lawyer_Diving/"
   email            : "hrj@lawyerdiving.com" 
 
   # Academic websites
